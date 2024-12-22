@@ -1,0 +1,63 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "首页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "关于我"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "页面元素"
+url = "/elements"
+weight = 3
+
+[[main]]
+weight = 4
+name = "其他"
+
+[[main]]
+parent = "其他"
+name = "博客"
+url = "/blog"
+
+[[main]]
+parent = "其他"
+name = "联系方式"
+url = "/contact"
+
+[[main]]
+parent = "其他"
+name = "作者"
+url = "/authors"
+
+[[main]]
+parent = "其他"
+name = "分类"
+url = "/categories"
+
+[[main]]
+parent = "其他"
+name = "404 Page"
+url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "关于我"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "隐私策略"
+url = "/privacy-policy"
+weight = 3
