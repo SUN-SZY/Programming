@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "我是SUN  欢迎来到我的个人博客"
-  content: "这是我的一些介绍"
+  title: "我是SUN <br>  欢迎来到我的个人博客"
+  content: "这是我的一些项目分享和个人经历，如果觉得对您有帮助的的话，可以复制本仓库，并点亮start"
   image: "/images/banner.png"
   button:
     enable: false

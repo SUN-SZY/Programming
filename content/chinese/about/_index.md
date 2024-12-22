@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
+title: "你好, 我是SUN!"
+meta_title: "有关于我"
+description: "一个熟练掌握全栈计算机语言框架的有限且有趣生命。我思故我在。"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+我是SUN，一个程序员。涉猎范围包括网络安全，软件开发，AI模型，服务器运维，自动化工作流等相关领域的开发。
+目前正在积极扩充自己的实力，充实自己的生活，如果您对此感兴趣非常欢迎您加入并和我一起学习。
+我的博客将会陆续介绍一些比较有趣的项目，如果您有意愿，欢迎实时同步我的仓库。

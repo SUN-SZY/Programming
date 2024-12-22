@@ -1,9 +1,9 @@
 ---
-title: "Privacy"
+title: "隐私"
 # meta title
-meta_title: ""
+meta_title: "看不懂可以不看"
 # meta description
-description: "This is meta description"
+description: "这是默认协议"
 # save as draft
 draft: false
 ---
