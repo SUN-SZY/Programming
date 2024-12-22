@@ -6,18 +6,32 @@ name = "首页"
 url = "/"
 weight = 1
 
+
+#[[main]]
+#name = "页面元素"
+#url = "/elements"
+#weight = 3
+
+
+
 [[main]]
-name = "关于我"
-url = "/about"
+name = "个人博客"
+url = "/blog"
 weight = 2
 
 [[main]]
-name = "页面元素"
-url = "/elements"
+name = "关于我"
+url = "/about"
 weight = 3
 
 [[main]]
+name = "联系我"
+url = "/contact"
 weight = 4
+
+
+[[main]]
+weight = 5
 name = "其他"
 
 [[main]]
@@ -40,10 +54,10 @@ parent = "其他"
 name = "分类"
 url = "/categories"
 
-[[main]]
-parent = "其他"
-name = "404 Page"
-url = "/404"
+#[[main]]
+#parent = "其他"
+#name = "404 Page"
+#url = "/404"
 
 
 # footer menu
@@ -53,7 +67,7 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "页面元素"
 url = "/elements"
 weight = 2
 
